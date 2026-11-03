@@ -1,1 +1,2 @@
-# Grade9-Distance-Warning
+The HC-SR04 ultrasonic sensor detects objects by sending out ultrasonic sound waves and receiving the echoes that bounce back from nearby objects. It measures the time taken for the sound waves to return and calculates the distance.
+The Arduino Uno then checks the measured distance. If an object is detected within the set distance (for example, 20 cm), the Arduino activates the red LED as a warning signal. If the object is farther away, the LED remains off.
